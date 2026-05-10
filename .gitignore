@@ -35,6 +35,8 @@
 # VSCode files
 .vscode/
 
+# Temporary files created by Microsoft Office
+~$*.docx
 
 # Ignore files build by Visual Studio
 [Dd]ebug
